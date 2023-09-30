@@ -33,7 +33,7 @@ const VideoDetail = () => {
   console.log("statecont", relatedContents);
 
   return (
-    <div className="lg:px-[100px] flex flex-col gap-5 lg:flex-row min-h-[95vh] text-white">
+    <div className="lg:px-[100px] flex flex-col gap-5 lg:flex-row min-h-[95vh] text-white bg-[#2d2d2d]">
       <SideNav />
       {/* player tarafi */}
       <div>

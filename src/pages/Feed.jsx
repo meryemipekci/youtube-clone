@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import SideNav from "../components/Loading";
+import SideNav from "../components/SideNav";
 import { YoutubeContext } from "../context/YoutubeContext";
 import Loading from "../components/VideoCard";
 import VideoCard from "../components/VideoCard";
